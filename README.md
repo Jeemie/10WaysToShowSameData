@@ -1,5 +1,4 @@
-Name: Jimmy Tran
-Username: jntran
+Showing the same dataset using 10 different methods.
 
 #GGPLOT2
 ![ggplot2](img/ggplot2.png)
